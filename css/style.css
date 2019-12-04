@@ -1,0 +1,61 @@
+ html header {
+    background-color: teal ;
+    width: 1352px;
+    height:  140px;
+
+}
+
+header a {
+    margin-left: 300px;
+    margin-top: 20px;
+
+}
+
+/* footer {
+    background-color: teal ;
+    width: 100px;
+    height:150px;
+} */
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+  overflow: hidden;}
+
+  li {
+    display: block;
+    color: white;
+    text-align: center;
+    /* padding: 16px; */
+    float: right;
+    margin-right: 200px;
+    margin-top: -5px;
+    font-family: fantasy;
+  }
+
+  #bigImg {
+      margin-top: 50px;
+      margin-left: 200px;
+      margin-right: 200px;
+  }
+
+  #rightImg {
+      float: right;
+      margin-right: 180px;
+      margin-top: 10px;
+  }
+
+  #text {
+      margin-left: 200px;
+      overflow: scroll;
+      width: 502px;
+     height: 260px;
+     margin-top: 10px;
+  }
+
+  form {
+    
+    width: 30px;
+    height: 30px;
+
+  }
